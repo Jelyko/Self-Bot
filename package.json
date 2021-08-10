@@ -1,0 +1,16 @@
+{
+  "name": "try-me-self-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "discord.js-selfbot": "^12.0.2",
+    "dotenv": "^10.0.0"
+  }
+}
